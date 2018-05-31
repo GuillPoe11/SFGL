@@ -4,7 +4,10 @@
 1803-1815 	Guerres napoléoniennes
 1815-1830 	Restauration
 <<<<<<< HEAD
+<<<<<<< HEAD
 1815-1830 	Restauration à macdo
+=======
+>>>>>>> parent of 9b33a43... RLS-Nougat-Conflict
 =======
 >>>>>>> parent of 9b33a43... RLS-Nougat-Conflict
 1830-1848 	Monarchie de juillet
@@ -20,8 +23,12 @@ mars-mai 1871 	Commune de Paris
 1954-1962 	Décolonisation
 1958-actuel 	Cinquième République
 <<<<<<< HEAD
+<<<<<<< HEAD
 2014 Invention de la trotinette à vapeur
 middle
+=======
+2014 Invention de la trotinette à vapeur
+>>>>>>> parent of 9b33a43... RLS-Nougat-Conflict
 =======
 2014 Invention de la trotinette à vapeur
 >>>>>>> parent of 9b33a43... RLS-Nougat-Conflict
